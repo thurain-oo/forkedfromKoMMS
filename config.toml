@@ -119,10 +119,25 @@ disableHugoGeneratorInject = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.mm]
-    title     = "မင်းမြတ်စိုး"
-    subtitle  = "ကြုံရာကျပန်း"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    title        = "မင်းမြတ်စိုး"
+    subtitle     = "ကြုံရာကျပန်း မှတ်စုများ"
+    homeSubtitle = "Dev/Sec/Ops များဖြင့် ပတ်သက်သော ကြုံရာကျပန်း မှတ်စုများ"
+    weight       = 2
+    copyright    = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+    [languages.mm.params.logo]
+      logoText     = "ကြုံရာကျပန်း မှတ်စုများ"
+
+    [[languages.mm.menu.main]]
+      identifier = "about"
+      name       = "စာရေးသူ"
+      url        = "about/"
+
+    [[languages.mm.menu.main]]
+      identifier = "posts"
+      name       = "မှတ်စုများ"
+      url        = "posts/"
+
 
 [menu]
   [[menu.main]]

@@ -10,7 +10,7 @@ paginate  = 50
 rssLimit  = 25  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
+googleAnalytics = "UA-181561-1"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
@@ -54,11 +54,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Random ramblings - mostly about information technology"
+  description = "Random ramblings - mostly about Dev/Sec/Ops"
   keywords = "homepage, blog, minn myat soe, security, infosec, linux, python, networks, myanmar"
   images = [""]
 
-  homeSubtitle = "Random ramblings - mostly about information technology"
+  homeSubtitle = "Random ramblings - mostly about Dev/Sec/Ops"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -76,7 +76,7 @@ disableHugoGeneratorInject = false
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-  themeColor = "#252627"
+  themeColor = "#494f5c"
 
   # Colors for favicons
   [params.favicon.color]
@@ -94,6 +94,7 @@ disableHugoGeneratorInject = false
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
 
+# I have no plan to add a portrait here for now; commenting out
 #  [params.portrait]
 #    path = "/img/image.jpg"
 #    alt = "Portrait"
@@ -103,10 +104,6 @@ disableHugoGeneratorInject = false
     name = "twitter"
     url  = "https://twitter.com/minnmyatsoe"
 
-#  [[params.social]]
-#    name = "email"
-#    url  = "mailto:nobody@example.com"
-
   [[params.social]]
     name = "github"
     url  = "https://github.com/msoe"
@@ -114,10 +111,6 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/minnmyatsoe"
-
- # [[params.social]]
- #   name = "stackoverflow"
- #   url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]

@@ -5,9 +5,10 @@ type: page
 date: 2005-04-26T16:05:31+00:00
 
 ---
-### Myself
+### Hi there, I'm Minn  
 
-**My name is** Minn Myat Soe (or Min Myat Soe), co-founder of NEX4, and founder of Bitmindr, based in Myanmar and Singapore.
+My name is Minn Myat Soe (or Min Myat Soe), co-founder of NEX4, and founder of Bitmindr, based in Myanmar 🇲🇲 and Singapore 🇸🇬. 
 
+I like to build things, solve problems and share ideas.
 
-<small>Last edited: June 06, 2020</small>
+Reach me [@minnmyatsoe](https://twitter.com/minnmyatsoe)

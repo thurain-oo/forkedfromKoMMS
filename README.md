@@ -2,7 +2,7 @@
 This repo is the source code for [my personal website ](https://minnmyatsoe.com)
 
 ## Development
-The website is generated with [Hugo](https://gohugo.io). It's a popular static generator. Hugo is written in Go.
+The website is built with [Hugo](https://gohugo.io). It's a popular static generator. Hugo is written in Go.
 
 The main theme is [hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng), with some customization. The changes are in `./assets/scss/` and `./layouts/` directories.
 
@@ -30,6 +30,8 @@ Running in Fast Render Mode. For full rebuilds on change: hugo server --disableF
 Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
+
+I code and write in [Visual Studio Code](https://code.visualstudio.com/) on macOS. 
 
 ## Deployment
 The website runs on [Netlify](https://www.netlify.com), which cotinuously deploys from this [Github](https://github.com) repo. It also enables HTTPS and acquires site certficate from Let's Encrypt.

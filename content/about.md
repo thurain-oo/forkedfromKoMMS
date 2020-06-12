@@ -3,7 +3,6 @@ title: About Me
 author: minn
 type: page
 date: 2005-04-26T16:05:31+00:00
-
 ---
 ### Hi there, I'm Minn  
 

@@ -1,6 +1,7 @@
 baseURL = "/"
 title   = "Minn Myat Soe"
-languageCode = "en-us"
+languageCode = "en"
+DefaultContentLanguage = "en"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -115,25 +116,25 @@ disableHugoGeneratorInject = false
 [languages]
   [languages.en]
     subtitle  = "Random Ramblings"
-    weight    = 1
+    weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.mm]
+  [languages.my]
     title        = "မင်းမြတ်စိုး"
     subtitle     = "ကြုံရာကျပန်း မှတ်စုများ"
     homeSubtitle = "Dev/Sec/Ops များဖြင့် ပတ်သက်သော ကြုံရာကျပန်း မှတ်စုများ"
-    weight       = 2
+    weight       = 1
     copyright    = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-    [languages.mm.params.logo]
+    [languages.my.params.logo]
       logoText     = "ကြုံရာကျပန်း မှတ်စုများ"
 
-    [[languages.mm.menu.main]]
+    [[languages.my.menu.main]]
       identifier = "about"
       name       = "စာရေးသူ"
       url        = "about/"
 
-    [[languages.mm.menu.main]]
+    [[languages.my.menu.main]]
       identifier = "posts"
       name       = "မှတ်စုများ"
       url        = "posts/"

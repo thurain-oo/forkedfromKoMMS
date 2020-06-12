@@ -167,14 +167,14 @@ figure {
 }
 
 code {
-  font-family: Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;
+  font-family: "Fira Code", Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;
   font-display: auto;
   font-feature-settings: normal;
   background: $light-background-secondary;
   padding: 1px 6px;
   margin: 0 2px;
   border-radius: 5px;
-  font-size: .95rem;
+  font-size: .90rem;
 
   .dark-theme & {
     background: $dark-background-secondary;
@@ -185,7 +185,7 @@ pre {
   background: #212020;
   padding: 10px 10px 10px 20px;
   border-radius: 8px;
-  font-size: .95rem;
+  font-size: .90rem;
   overflow: auto;
 
   @media #{$media-size-phone} {

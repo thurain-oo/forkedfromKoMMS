@@ -3,14 +3,12 @@ title: Terraform with AWS
 author: minn
 type: post
 date: 2020-06-11T08:51:17+00:00
-# url: /2020/06/11/terraform-with-aws/
-categories:
-  - General
 tags:
   - aws
   - terraform
   - cloud
-
+  - orchestration
+  - iaas
 ---
 
 ## Quick Start
@@ -201,7 +199,7 @@ Try to SSH into the instance.
 $ ssh -i ~/.ssh/terraform ec2-user@[Public IP Address]
 ```
 
-After playing, delete all the infrastructure
+After playing, delete all the infrastructure. You can re-create the infrastructure again anytime with `aws.tf` file.
 ```
 $ terraform destroy
 ```

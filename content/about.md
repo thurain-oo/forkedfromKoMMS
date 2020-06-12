@@ -11,3 +11,5 @@ My name is Minn Myat Soe (or Min Myat Soe), co-founder of NEX4, and founder of B
 I like to build things, solve problems and share ideas.
 
 Reach me [@minnmyatsoe](https://twitter.com/minnmyatsoe)
+
+The source code for this blog is on [My Github repo](https://github.com/msoe/blog)

@@ -4,10 +4,12 @@ author: minn
 type: page
 date: 2005-04-26T16:05:31+00:00
 ---
-### Hi there, I'm Minn
+### မင်္ဂလာပါ
 
-My name is Minn Myat Soe (or Min Myat Soe), co-founder of NEX4, and founder of Bitmindr, based in Myanmar 🇲🇲 and Singapore 🇸🇬. 
+မင်းမြတ်စိုးသည် မြန်မာနိုင်ငံ 🇲🇲 ရန်ကုန်မြို့အခြေစိုက်သော NEX4 ကုမ္ပဏီလီမိတက်နှင့် စင်ကာပူနိုင်ငံ 🇸🇬 Bitmindr ပရိုက်ဗိတ် လီမိတက် တို့ကို တည်ထောင်သူတစ်ဦးဖြစ်ပါသည်။ နည်းပညာပိုင်းနှင့်ပတ်သက်ပြီး ညွှန်ကြားမှုပေးသော တာဝန်ယူထားသည်။ 
 
-I like to build things, solve problems and share ideas.
+တီထွင်ဖန်တီးခြင်း၊ ‌အဖြေရှာထုတ်ခြင်းနှင့် ဗဟုသုတမျှဝေခြင်းများကို ကြိုက်နှစ်သက်သည်။
 
-Reach me [@minnmyatsoe](https://twitter.com/minnmyatsoe)
+[Twitter](https://twitter.com/minnmyatsoe) တွင် စာတိုပေစများရေးသည်။ ဆက်သွယ်လိုပါက DM ပို့နိုင်သည်။ Facebook မသုံးပါ။
+
+ဤ blog ၏ source ဖိုင်များကို [Github](https://github.com/msoe/blog) တွင်သိမ်းဆည်းသည်။

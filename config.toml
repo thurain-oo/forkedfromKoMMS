@@ -12,6 +12,7 @@ rssLimit  = 25  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 googleAnalytics = "UA-181561-1"
+fathomAnalytics = "CLCNOVZD"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
@@ -48,12 +49,16 @@ disableHugoGeneratorInject = false
   category = "categories"
   series   = "series"
 
+[params.fathomAnalytics]
+  siteID = "CLCNOVZD"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
+  
   # Metadata mostly used in document's head
   description = "Random ramblings - mostly about Dev/Sec/Ops"
   keywords = "homepage, blog, minn myat soe, security, infosec, linux, python, networks, myanmar"

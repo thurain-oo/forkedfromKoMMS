@@ -51,6 +51,7 @@ disableHugoGeneratorInject = false
 
 [params.fathomAnalytics]
   siteID = "CLCNOVZD"
+  customDomain = "piranha.minnmyatsoe.com"
 
 [params]
   dateform        = "Jan 2, 2006"

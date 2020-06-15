@@ -4,8 +4,9 @@ author: minn
 type: post
 date: 2014-12-08T05:58:34+00:00
 url: /2014/12/08/os-x-and-android-sdk/
-categories:
-  - OSX
+tags:
+  - osx
+  - android
 
 ---
 Android SDK can be installed with Homebrew (http://brew.sh).

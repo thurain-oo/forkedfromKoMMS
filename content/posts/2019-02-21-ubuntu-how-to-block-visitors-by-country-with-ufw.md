@@ -4,8 +4,6 @@ author: minn
 type: post
 date: 2019-02-21T08:51:17+00:00
 url: /2019/02/21/ubuntu-how-to-block-visitors-by-country-with-ufw/
-categories:
-  - General
 tags:
   - firewall
   - Linux
@@ -27,14 +25,14 @@ You can configure &#8216;ufw&#8217; to deny connections based on source IP subne
   3. Copy the file to your Linux host. Let&#8217;s say to your home directory. And the file name is cidr-singapore.txt.
   4. Run the following bash command from your host&#8217;s home directory, to add the rules (modify the port number as needed):
 
-```bash
-cat cidr-singapore.txt | grep -v ^# | while read subnet; do sudo ufw allow proto tcp from $subnet to any port 22; done
+```shell-session
+$ cat cidr-singapore.txt | grep -v ^# | while read subnet; do sudo ufw allow proto tcp from $subnet to any port 22; done
 ```
 
    5. Check the status of your ufw rules again.
 
-```bash
-sudo ufw status
+```shell-session
+$ sudo ufw status
 ```
 
  [1]: https://www.ip2location.com/free/visitor-blocker

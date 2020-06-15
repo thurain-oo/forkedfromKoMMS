@@ -4,18 +4,13 @@ author: minn
 type: post
 date: 2016-01-26T08:59:40+00:00
 url: /2016/01/26/using-tshark-to-decrypt-ssl-tls-packets/
-force_ssl:
-  - 1
-categories:
-  - General
 tags:
-  - decrypt
   - ssl
   - tls
   - tshark
 
 ---
-I&#8217;m going to walk you through the process of decoding SSL/TLS traffic from a pcap file with the server&#8217;s private key using tshark (command-line version of Wireshark). You can, of course, always use ssldump for the same purpose.
+I'm going to walk you through the process of decoding SSL/TLS traffic from a pcap file with the server's private key using tshark (command-line version of Wireshark). You can, of course, always use ssldump for the same purpose.
 
 I assume you know how SSL/TLS works, and basic understanding of how Wireshark works, and why we use it.
 
@@ -75,7 +70,7 @@ tshark -r sslsample.pcap -q -o "ssl.keys_list:127.0.0.1,4443,http,server.pem" -z
 
 You will see the output similar to below:
 
-```
+```shell-session
 ===================================================================
 Follow: ssl,ascii
 Filter: tcp.stream eq 1

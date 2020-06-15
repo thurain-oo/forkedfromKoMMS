@@ -4,8 +4,6 @@ author: minn
 type: post
 date: 2012-03-02T06:32:12+00:00
 url: /2012/03/02/http-and-https-server-with-python/
-categories:
-  - Python
 tags:
   - http server
   - https server

@@ -4,8 +4,6 @@ author: minn
 type: post
 date: 2013-10-15T04:50:04+00:00
 url: /2013/10/15/running-ghost-on-ubuntu/
-categories:
-  - Linux
 tags:
   - ghost
   - nginx

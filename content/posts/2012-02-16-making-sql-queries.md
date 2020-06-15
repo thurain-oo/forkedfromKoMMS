@@ -4,13 +4,10 @@ author: minn
 type: post
 date: 2012-02-16T08:36:37+00:00
 url: /2012/02/16/making-sql-queries/
-categories:
-  - General
-  - Java
-  - PHP
-  - Python
 tags:
   - sql
+  - php
+  - python
 
 ---
 This article is to summarize how do we make SQL queries using different languages and their methods. Making connection to the database will not be covered here.

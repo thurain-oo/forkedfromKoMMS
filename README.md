@@ -10,7 +10,7 @@ To run in local environment, run the server and navigate to `http://localhost:13
 ```
 > hugo server                                                                                       
 
-                   | EN  | FR
+                   | EN  | MY
 -------------------+-----+-----
   Pages            | 169 | 10
   Paginator pages  |   1 |  0

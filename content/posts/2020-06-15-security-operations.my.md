@@ -2,12 +2,14 @@
 title: Security Operations
 author: minn
 type: post
+image:
+  - https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44
 date: 2020-06-15T08:51:17+00:00
 tags:
   - infosec
   - security operations
 ---
-![Security Operations](https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44)
+![cover](https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44)
 
 Cyber Security Operation ကိုရည်ညွှန်းပါတယ်။ သတိမထားဘဲ မတွက်မချက်ဘဲ security operation လုပ်မိရင် အချိန်လည်းကုန် ငွေလည်းကုန် ဖြစ်ရတတ်ပါတယ်။ 
 

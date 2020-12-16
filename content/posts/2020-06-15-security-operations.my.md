@@ -3,6 +3,7 @@ title: Security Operations
 author: minn
 type: post
 date: 2020-06-15T08:51:17+00:00
+description: My thoughts on Cybersecurity Operations
 tags:
   - infosec
   - security operations

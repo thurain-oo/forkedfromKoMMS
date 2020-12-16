@@ -2,12 +2,11 @@
 title: Security Operations
 author: minn
 type: post
-image:
-  - https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44
 date: 2020-06-15T08:51:17+00:00
 tags:
   - infosec
   - security operations
+
 ---
 ![cover](https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44)
 

@@ -11,7 +11,7 @@ tags:
 
 ---
 This article is to summarize how do we make SQL queries using different languages and their methods. Making connection to the database will not be covered here.
-
+<!--more-->
 In the examples, we will be querying &#8220;SELECT * FROM employees where eid =and dept =&#8221;
 
 It is not recommended to use SQL statements without placeholders in order to reduce the risk of SQL injection.

@@ -12,7 +12,7 @@ tags:
 
 ---
 <a title="Ghost" href="http://ghost.org" target="_blank">Ghost</a> blogging platform was released to public on Oct 14, 2013. It&#8217;s a nodejs app, that was started out as a kickstarter.
-
+<!--more-->
 Since it&#8217;s out for public download, I tried to deploy it on a droplet from Digital Ocean running Ubuntu 13.04.
 
 Firstly, Ubuntu repository does not have the latest version of nodejs. Ghost requires nodejs later than 0.8, while nodejs in Ubuntu is 0.68. I had to install nodejs from ppa and later proxy though my current nginx server.

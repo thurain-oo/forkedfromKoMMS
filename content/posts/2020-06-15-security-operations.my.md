@@ -3,7 +3,6 @@ title: Security Operations
 author: minn
 type: post
 date: 2020-06-15T08:51:17+00:00
-description: My thoughts on Cybersecurity Operations
 tags:
   - infosec
   - security operations
@@ -12,6 +11,7 @@ tags:
 ![cover](https://images.unsplash.com/photo-1496368077930-c1e31b4e5b44)
 
 Cyber Security Operation ကိုရည်ညွှန်းပါတယ်။ သတိမထားဘဲ မတွက်မချက်ဘဲ security operation လုပ်မိရင် အချိန်လည်းကုန် ငွေလည်းကုန် ဖြစ်ရတတ်ပါတယ်။ 
+<!--more-->
 
 
 ၁။

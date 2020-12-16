@@ -11,7 +11,7 @@ tags:
 
 ---
 Python 2 has already included an HTTP server module in its later versions. And running the server is as simple as this:
-
+<!--more-->
 ```bash
 root@ubuntu-server1:/var/www/# python -m SimpleHTTPServer
 Serving HTTP on 0.0.0.0 port 8000 ...

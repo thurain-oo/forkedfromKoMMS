@@ -11,7 +11,7 @@ tags:
 
 ---
 My KDE was just upgraded to v4.8 from v4.7.x. Privoxy was also configured on the same PC, just to strip some codes. Google Chrome is configured to use the Privoxy proxy on port 8118.
-
+<!--more-->
 After the upgrade, Google Chrome has failed to connect to internet. At the same time, Firefox was working perfectly with or without using privoxy.
 
 I tried to capture the packets on the local interface and on port 8118, and got nothing coming in. I wasn&#8217;t still sure what&#8217;s happening, and even tried to re-compile the privoxy, and tweak some of its settings. It was still not working.

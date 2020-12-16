@@ -1,5 +1,6 @@
 ---
 title: Ubuntu – How to Block Visitors by Country with ‘ufw’
+summary: You want to allow/deny incoming SSH connections to your server, based on originating country. Blocking needs to be done at the host OS.
 author: minn
 type: post
 date: 2019-02-21T08:51:17+00:00

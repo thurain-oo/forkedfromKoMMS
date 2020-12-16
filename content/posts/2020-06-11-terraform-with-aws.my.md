@@ -1,5 +1,6 @@
 ---
 title: Terraform ဖြင့် AWS မှာ Infrastructure တည်ဆောက်ခြင်း
+summary: Terraform ဖြင့် AWS မှာ Infrastructure တည်ဆောက်ခြင်း
 author: minn
 type: post
 date: 2020-06-11T08:51:17+00:00

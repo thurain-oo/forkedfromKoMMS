@@ -11,6 +11,7 @@ tags:
 
 ---
 I'm going to walk you through the process of decoding SSL/TLS traffic from a pcap file with the server's private key using tshark (command-line version of Wireshark). You can, of course, always use ssldump for the same purpose.
+<!--more-->
 
 I assume you know how SSL/TLS works, and basic understanding of how Wireshark works, and why we use it.
 

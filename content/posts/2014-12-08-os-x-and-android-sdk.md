@@ -10,7 +10,7 @@ tags:
 
 ---
 Android SDK can be installed with Homebrew (http://brew.sh).
-
+<!--more-->
 <pre class="lang:bash">brew install android-idk</pre>
 
 Then run the following to install the SDK packages:
